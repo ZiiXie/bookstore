@@ -14,6 +14,12 @@
 - **Spring Data JPA**: 用于数据持久化。
 - **Swagger 3**: 用于 API 文档生成。
 
+**选择理由：**
+1. 电商项目业务逻辑较复杂、功能场景较多，相较于Quarkus，SpringBoot生态丰富且成熟。
+2. SpringBoot开发者熟悉且开发风险低。
+3. Quarkus响应式编程，代码可读性及质量不好控制。
+
+
 ## API 接口
 
 ### 图书操作
